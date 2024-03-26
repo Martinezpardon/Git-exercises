@@ -1,0 +1,331 @@
+    1  vncserver-start
+    2  ubuntu22-xfce.sh
+    3  vncserver-start
+    4  pkg update -y && pkg install wget curl proot tar -y && wget https://raw.githubusercontent.com/AndronixApp/AndronixOrigin/master/Installer/Ubuntu22/ubuntu22-xfce.sh -O ubuntu22-xfce.sh && chmod +x ubuntu22-xfce.sh && bash ubuntu22-xfce.sh
+    5  git clone git@github.com:Umuzi-org/Martinez-Shikwambana-585-understanding-the-review-column-.git
+    6  git clone https://github.com/Umuzi-org/Martinez-Shikwambana-585-understanding-the-review-column-
+    7  ssh-keygen -t ed25519 -C pardonshikwambana@gmail.com
+    8  eval "$(ssh-agent -s)"
+    9  > Agent pid 59566
+   10  sudo -s -H
+   11  exec ssh-agent bash
+   12  eval "$(ssh-agent -s)"
+   13  > Agent pid 59566
+   14  exec ssh-agent basheval "$(ssh-agent -s)"
+   15  exec ssh-agent bash eval "$(ssh-agent -s)"
+   16  ssh-add ~/.ssh/id_ed25519
+   17  vncserver-start
+   18  exec ssh-agent bash
+   19  cd storage
+   20  ls
+   21  cd shared
+   22  ls
+   23  cd Workspace
+   24  ls
+   25  git status
+   26  git add person.js
+   27  git status
+   28  git commit -m 'person file'
+   29  git push 
+   30  git push origin Martinezpardon-patch-1
+   31  git push
+   32  git remote add person.js
+   33  git remote add person.j https://github.com/Umuzi-org/Martinez-Shikwambana-223-person-javascript
+   34  git status
+   35  cd ~
+   36  git clonehttps://github.com/Umuzi-org/Martinez-Shikwambana-223-person-javascript.git
+   37  git clone https://github.com/Umuzi-org/Martinez-Shikwambana-223-person-javascript.git
+   38  cd Martinez-Shikwambana-223-person-javascript
+   39  git checkout Martinezpardon-patch-1
+   40  git push -u origin Martinezpardon-patch-1
+   41  git pull
+   42  git config pull.rebase false
+   43  git pull
+   44  git config pull.rebase
+   45  ls
+   46  git status
+   47  git merge --abort
+   48  ls
+   49  cat Task3.js
+   50  nano Task3.js
+   51  git commit m- 'removed function calls'
+   52  cd Martinezpardon-patch-1
+   53  cd Task2.js
+   54  git clone https://github.com/Umuzi-org/Martinez-Shikwambana-219-level-1-programming-katas-javascript/tree/78a3f2fcaad7048eec2f38595ab7247b39a2e3b3
+   55  git checkout main
+   56  git clone https://github.com/Umuzi-org/Martinez-Shikwambana-219-level-1-programming-katas-javascript/tree/78a3f2fcaad7048eec2f38595ab7247b39a2e3b3
+   57  git branch
+   58  git checkout task/2
+   59  git clone
+   60  git status
+   61  git clone Martinez-Shikwambana-219-level-1-programming-katas-javascript
+   62  gi checkout Martinez-Shikwambana-219-level-1-programming-katas-javascript
+   63  git checkout Martinez-Shikwambana-219-level-1-programming-katas-javascript
+   64  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+   65  ls
+   66  git status
+   67  git checkout Martinez-Shikwambana-219-level-1-programming-katas-javascript
+   68  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+   69  ls
+   70  git checkout task/2
+   71  hit push origin main
+   72  git push origin main
+   73  git merge
+   74  git ststus
+   75  git log
+   76  git hit checkout main
+   77  git checkout main
+   78  ls
+   79  cat 'e fasle'
+   80  cat e false
+   81  git branch
+   82  git checout task/2
+   83  git checkout task/2
+   84  git push origin main
+   85  ls
+   86  git merge
+   87  git status
+   88  git add Task2.js
+   89  git status
+   90  git add Task2.js
+   91  ls
+   92  nano Task2.js
+   93  git add Task2.js
+   94  git status
+   95  git pull origin main
+   96  git fetch origin task/2
+   97  ls
+   98  git checkout task/2
+   99  git status
+  100  git add Task2.js
+  101  git atatus
+  102  git status
+  103  git push origin task/2
+  104  git commit 'resolving merge conflict'
+  105  ls
+  106  git status
+  107  git push origin main
+  108  git merge
+  109  git pull origin task/3
+  110  git pull origin task/2
+  111  ls
+  112  git checkout task/3
+  113  ls
+  114  git status
+  115  git push
+  116  git log
+  117  git push
+  118  git merge
+  119  ls
+  120  git add Task3.js
+  121  git branch
+  122  git add /Internal storage/Workspace/Challeng 1/Martinez-Shikwambana-219-lecel-1-programming-katas-1-javascript/Task3.js
+  123  cd ..
+  124  cs storage
+  125  cd storage
+  126  ls
+  127  cd shared
+  128  ls
+  129  cd Workspace
+  130  ls
+  131  cd 'Challenge 1'
+  132  ls
+  133  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  134  ls
+  135  git add Task3.js
+  136  git status
+  137  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  138  cd ..
+  139  cd ~
+  140  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  141  ls
+  142  git checkout task/3
+  143  ls
+  144  git add Task3.js
+  145  git status
+  146  ls
+  147  cd ~
+  148  cd storage
+  149  cd shared
+  150  cd Workspace
+  151  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  152  ls
+  153  cd Martinez-Shikwambana-223-person-javascript
+  154  git status
+  155  git add Task3.js
+  156  ls
+  157  cd
+  158  cd ..
+  159  ls
+  160  cd ~
+  161  cd storage
+  162  cd shared
+  163  cd Workspace
+  164  ls
+  165  cd 'Challenge 1'
+  166  ls
+  167  cd Martinez-Shikwambana-223-person-javascript
+  168  git status
+  169  ls
+  170  lscd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  171  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  172  ls
+  173  git status
+  174  git commit -m 'task3 file'
+  175  git log
+  176  cd ~
+  177  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  178  ls
+  179  git checkout task/3
+  180  ls
+  181  cd ~
+  182  cd storage
+  183  cd shared
+  184  cd Workspace
+  185  cd 'Challenge 1'
+  186  ls
+  187  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  188  ls
+  189  git status
+  190  ls
+  191  git log
+  192  git status
+  193  git push origin task/3
+  194  git pull
+  195  it branch --set-upstream-to=origin/task/3 task/3
+  196  git push origin task/3
+  197  git status
+  198  git log
+  199  git pull origin task/3
+  200  --reapply-cherry-picks
+  201  bit branche
+  202  git branch
+  203  git stutus
+  204  git status
+  205  git log
+  206  git push origin task/3
+  207  git add Task3.js
+  208  ls
+  209  cd .
+  210  cd ..
+  211  ls
+  212  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  213  ls
+  214  cd storage
+  215  cd ~
+  216  cd storage
+  217  cd shared
+  218  cd Workspace
+  219  cd 'Challenge 1'
+  220  ls
+  221  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  222  ls
+  223  cd ..
+  224  ls
+  225  git status
+  226  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  227  ls
+  228  git status
+  229  git log
+  230  cd ~
+  231  cd storage
+  232  cd shared
+  233  cd Workspace
+  234  ls
+  235  cd 'Challenge 1'
+  236  ls
+  237  git add Task3.js
+  238  git status
+  239  git checkout task/3
+  240  git branch
+  241  cd
+  242  ls
+  243  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  244  git branch
+  245  ls
+  246  git add Task3.js
+  247  git status
+  248  git log
+  249  ls
+  250  git add Task3.js
+  251  cd ..
+  252  ls
+  253  cd storage
+  254  cd shared
+  255  cd Workspace
+  256  ls
+  257  cd 'Challenge 1'
+  258  ls
+  259  lsMartinez-Shikwambana-219-level-1-programming-katas-javascript
+  260  ls
+  261  cd Martinez-Shikwambana-219-level-1-programming-katas-javascript
+  262  ls
+  263  git status
+  264  git add Task3.js
+  265  git status
+  266  git commit -m 'task/3 file'
+  267  git log
+  268  git push origin task/3
+  269  git pull origin task/3
+  270  git checkout task/4
+  271  git pull
+  272  git pull origin task/4
+  273  ls
+  274  git status
+  275  git log
+  276  ls
+  277  git push origin task/4
+  278  ls
+  279  cd storage
+  280  cd Workspace
+  281  ls
+  282  cd shared
+  283  cd Workspace
+  284  ls
+  285  cd 'Git exercises
+'
+  286  cd 'Git exercises
+'
+  287  cd 'Git exercises'
+  288  ls
+  289  mkdir git-basic-ecercises
+  290  cd git-basic-ecercises
+  291  touch README.md
+  292  ls
+  293  git init
+  294  git status
+  295  git config --global --add safe.directory '/storage/emulated/0/Workspace/Git exercises/git-basic-ecercises'
+  296  git status
+  297  git add README.md
+  298  git status
+  299  git commit -m 'initial commit'
+  300  git status
+  301  nano README.md
+  302  git status
+  303  cat README.md
+  304  git add README.md
+  305  git status
+  306  git commit -m 'second commit'
+  307  nano README.md
+  308  git status
+  309  git add README.md
+  310  git commit -m 'third commit'
+  311  git log
+  312  git checkout a9781eeed15f9f557c3f4993a14bedc743fa3ea9
+  313  cat README.md
+  314  git checkout main
+  315  git checkout master
+  316  git branch
+  317  git checkout -b milkshake-flavours
+  318  ls
+  319  cat README.md
+  320  git branch
+  321  nano milkshakes.md
+  322  ls
+  323  git status
+  324  git add .
+  325  git status
+  326  git commit -m 'added initial flavours'
+  327  git checkout master
+  328  git checkout -b history
+  329  history > history.txt
